@@ -1,0 +1,48 @@
+﻿  Checking existence of: shaders\point_light.vert.spv
+  Source: shaders\point_light.vert - Modified: 20260824003129
+  SPV: shaders\point_light.vert.spv - Created: 20260824003129
+  Checking existence of: shaders\simple_shader.vert.spv
+  Source: shaders\simple_shader.vert - Modified: 20260824003129
+  SPV: shaders\simple_shader.vert.spv - Created: 20260824003129
+  Checking existence of: shaders\point_light.frag.spv
+  Source: shaders\point_light.frag - Modified: 20260824003129
+  SPV: shaders\point_light.frag.spv - Created: 20260824003129
+  Checking existence of: shaders\simple_shader.frag.spv
+  Source: shaders\simple_shader.frag - Modified: 20260824003129
+  SPV: shaders\simple_shader.frag.spv - Created: 20260824003129
+  Done Updated .vert and .frag files are stored in "updated_files.txt"
+  No Compilations Needed
+  app.cpp
+  input_controller.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(130,9): warning C4005: 'APIENTRY': macro redefinition
+  (compiling source file 'src/input_controller.cpp')
+      C:\Users\legoh\OneDrive\Documents\GitHub\Vulkan Renderer\RPGPrototype\dependencies\glfw\include\GLFW\glfw3.h(123,11):
+      see previous definition of 'APIENTRY'
+  
+  music.cpp
+  networking.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(130,9): warning C4005: 'APIENTRY': macro redefinition
+  (compiling source file 'src/networking/networking.cpp')
+      C:\Users\legoh\OneDrive\Documents\GitHub\Vulkan Renderer\RPGPrototype\dependencies\glfw\include\GLFW\glfw3.h(123,11):
+      see previous definition of 'APIENTRY'
+  
+  packet_manager.cpp
+  entity.cpp
+  player.cpp
+  vulkan_buffer.cpp
+  vulkan_camera.cpp
+  vulkan_descriptors.cpp
+  vulkan_device.cpp
+  game_object.cpp
+  vulkan_model.cpp
+  GLM_GTX_hash requires C++11 standard library support
+  vulkan_pipeline.cpp
+  vulkan_renderer.cpp
+  vulkan_render_system.cpp
+  point_light_system.cpp
+  vulkan_swap_chain.cpp
+  vulkan_window.cpp
+  main.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  RPGPrototype.vcxproj -> C:\Users\legoh\OneDrive\Documents\GitHub\Vulkan Renderer\x64\Debug\RPGPrototype.exe

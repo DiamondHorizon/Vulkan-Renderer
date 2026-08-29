@@ -1,0 +1,12 @@
+# Visual Studio cache
+.vs/
+*.ipch
+*.pdb
+*.obj
+*.idb
+*.ilk
+*.aps
+*.ncb
+*.sdf
+*.cache
+*.db

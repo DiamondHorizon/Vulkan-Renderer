@@ -1,0 +1,19 @@
+﻿  Checking existence of: shaders\simple_shader.vert.spv
+  Source: shaders\simple_shader.vert - Modified: 20250630141720
+  SPV: shaders\simple_shader.vert.spv - Created: 20250701021008
+  Checking existence of: shaders\point_light.vert.spv
+  Source: shaders\point_light.vert - Modified: 20250630141716
+  SPV: shaders\point_light.vert.spv - Created: 20250701021009
+  Checking existence of: shaders\simple_shader.frag.spv
+  Source: shaders\simple_shader.frag - Modified: 20250630142803
+  SPV: shaders\simple_shader.frag.spv - Created: 20250630142805
+  Checking existence of: shaders\point_light.frag.spv
+  Source: shaders\point_light.frag - Modified: 20250630151748
+  SPV: shaders\point_light.frag.spv - Created: 20250630151801
+  Done Updated .vert and .frag files are stored in "updated_files.txt"
+  No Compilations Needed
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+  Generating code
+  Previous IOBJ not found, fall back to full compilation.
+h:\my drive\python\video game\vulkan tutorial\rpgprototype\rpgprototype\src\main.cpp : fatal error C1083: Cannot open compiler intermediate file: 'x64\Release\RPGPrototype.ipdb': Permission denied
+LINK : fatal error LNK1257: code generation failed
